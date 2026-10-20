@@ -2,7 +2,9 @@
 About
 
 
-This repository contains my C programming assignments for Problem Solving and Programming(PPS).
+This repository contains my C programming assignment programs for Problem Solving and Programming(PPS).
+
+
 PROGRAMS Included
 
 
