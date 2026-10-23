@@ -23,6 +23,8 @@ PROGRAMS Included
 7. BMI.c - Calculates BMI and displays the category.
  
 8. VOWELORNOT.c - Checks whether a character is a vowel or not
+
+9. AMOUNT.c - Calculates final payable amount for a customer based on their total and membership tier.
     
 
 Language Used
